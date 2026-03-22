@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.local
+.DS_Store
+*.log
+coverage/
+
+# Memory: keep hot files tracked, ignore transient data
+.jarvis/memory/cold/
+.jarvis/memory/warm/sessions/*.md
+!.jarvis/memory/warm/sessions/.gitkeep
