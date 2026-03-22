@@ -16,7 +16,7 @@ This matters for design work because:
 ## Quick Start
 
 ```bash
-git clone https://github.com/nicepkg/design-jarvis
+git clone https://github.com/renfei-design/design-jarvis
 code design-jarvis
 ```
 
